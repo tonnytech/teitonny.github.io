@@ -14,6 +14,7 @@ This is the first page of my mobile setup porfolio project. It contains my name 
 
 # Live preview
 [LIVE LINK] (https://tonnytech.github.io/teitonny.github.io/)
+[LIVE LINK](https://tonnytech.github.io/teitonny.github.io/)
 
 # Getting started
 To get a local copy up and running, do the following steps:
